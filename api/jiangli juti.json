@@ -1,0 +1,43 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+	{
+	  "rewardName": "机器人及人工智能大赛国二",
+	  "dengji": "国奖",
+	  "danwei": "机器人研究中心",
+	  "time":2025.02
+	},
+	{
+	  "rewardName": "全国三维数字化创新设计大赛省一等奖",
+	  "dengji": "省级",
+	  "danwei": "ACM实验室",
+	  "time":2025.03
+	},
+	{
+	  "rewardName": "全国高校计算机能力挑战赛国家三等奖",
+	  "dengji": "国奖",
+	  "danwei": "双创实验室",
+	  "time":2024.09
+	},
+	{
+	  "rewardName": "机器人及人工智能大赛国二",
+	  "dengji": "国奖",
+	  "danwei": "机器人研究中心",
+	  "time":2025.02
+	},
+	{
+	  "rewardName": "全国三维数字化创新设计大赛省一等奖",
+	  "dengji": "省级",
+	  "danwei": "ACM实验室",
+	  "time":2025.03
+	},
+	{
+	  "rewardName": "全国高校计算机能力挑战赛国家三等奖",
+	  "dengji": "国奖",
+	  "danwei": "双创实验室",
+	  "time":2024.09
+	}
+  ]
+}

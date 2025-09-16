@@ -1,0 +1,167 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "高等数学C(1)",
+	  "xingzhi": "必修",
+      "grade": 97,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "李有文",
+	  "jidian": 23.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "篮球初级",
+	  "xingzhi": "必修",
+	  "grade": 100,
+	  "kaishexueyuan": "体育学院",
+	  "teacher": "王粟",
+	  "jidian": 3.75
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "线性代数C",
+	  "xingzhi": "必修",
+      "grade": 95,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "马利兵",
+	  "jidian": 13.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "大学英语A(1)",
+	  "xingzhi": "必修",
+	  "grade": 83,
+	  "kaishexueyuan": "人文社会科学学院",
+	  "teacher": "张小彩",
+	  "jidian": 6.60
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "高等数学C(1)",
+	  "xingzhi": "必修",
+      "grade": 97,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "李有文",
+	  "jidian": 23.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "篮球初级",
+	  "xingzhi": "必修",
+	  "grade": 100,
+	  "kaishexueyuan": "体育学院",
+	  "teacher": "王粟",
+	  "jidian": 3.75
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "线性代数C",
+	  "xingzhi": "必修",
+      "grade": 95,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "马利兵",
+	  "jidian": 13.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "大学英语A(1)",
+	  "xingzhi": "必修",
+	  "grade": 83,
+	  "kaishexueyuan": "人文社会科学学院",
+	  "teacher": "张小彩",
+	  "jidian": 6.60
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "高等数学C(1)",
+	  "xingzhi": "必修",
+      "grade": 97,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "李有文",
+	  "jidian": 23.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "篮球初级",
+	  "xingzhi": "必修",
+	  "grade": 100,
+	  "kaishexueyuan": "体育学院",
+	  "teacher": "王粟",
+	  "jidian": 3.75
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "线性代数C",
+	  "xingzhi": "必修",
+      "grade": 95,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "马利兵",
+	  "jidian": 13.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "大学英语A(1)",
+	  "xingzhi": "必修",
+	  "grade": 83,
+	  "kaishexueyuan": "人文社会科学学院",
+	  "teacher": "张小彩",
+	  "jidian": 6.60
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "高等数学C(1)",
+	  "xingzhi": "必修",
+      "grade": 97,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "李有文",
+	  "jidian": 23.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "篮球初级",
+	  "xingzhi": "必修",
+	  "grade": 100,
+	  "kaishexueyuan": "体育学院",
+	  "teacher": "王粟",
+	  "jidian": 3.75
+	},
+	{
+      "xuenian": "2024-2025",
+      "xueqi": 1,
+	  "class": "线性代数C",
+	  "xingzhi": "必修",
+      "grade": 95,
+	  "kaishexueyuan": "数学学院",
+	  "teacher": "马利兵",
+	  "jidian": 13.50
+    },
+	{
+	  "xuenian": "2024-2025",
+	  "xueqi": 1,
+	  "class": "大学英语A(1)",
+	  "xingzhi": "必修",
+	  "grade": 83,
+	  "kaishexueyuan": "人文社会科学学院",
+	  "teacher": "张小彩",
+	  "jidian": 6.60
+	}
+  ]
+}

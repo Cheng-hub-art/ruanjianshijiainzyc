@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "studentID": 2413040401,
+      "studentName": "张宇一",
+      "ID": 140105200603270001,
+      "class": 24130404,
+	  "major": "软件工程",
+	  "phoneNumber":15513005750
+    },
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "ID": 140105200603270002,
+	  "class": 24130404,
+	  "major": "武器制导",
+	  "phoneNumber":15513005751
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "ID": 140105200603270003,
+	  "class": 24130404,
+	  "major": "测控",
+	  "phoneNumber":15513005752
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "ID": 140105200603270004,
+	  "class": 24130404,
+	  "major": "电器及自动化",
+	  "phoneNumber":15513005753
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "ID": 140105200603270001,
+	  "class": 24130404,
+	  "major": "软件工程",
+	  "phoneNumber":15513005750
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "ID": 140105200603270002,
+	  "class": 24130404,
+	  "major": "武器制导",
+	  "phoneNumber":15513005751
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "ID": 140105200603270003,
+	  "class": 24130404,
+	  "major": "测控",
+	  "phoneNumber":15513005752
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "ID": 140105200603270004,
+	  "class": 24130404,
+	  "major": "电器及自动化",
+	  "phoneNumber":15513005753
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "ID": 140105200603270001,
+	  "class": 24130404,
+	  "major": "软件工程",
+	  "phoneNumber":15513005750
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "ID": 140105200603270002,
+	  "class": 24130404,
+	  "major": "武器制导",
+	  "phoneNumber":15513005751
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "ID": 140105200603270003,
+	  "class": 24130404,
+	  "major": "测控",
+	  "phoneNumber":15513005752
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "ID": 140105200603270004,
+	  "class": 24130404,
+	  "major": "电器及自动化",
+	  "phoneNumber":15513005753
+	}
+  ]
+}

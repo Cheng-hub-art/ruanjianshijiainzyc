@@ -1,0 +1,152 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "studentID": 2413040401,
+      "studentName": "张宇一",
+      "major": "软件工程",
+      "graduationDate": 2024.06,
+      "biyejielun": "结业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+    },
+    {
+      "studentID": 2413040402,
+      "studentName": "张宇二",
+      "major": "武器制导",
+      "graduationDate": 2023.06,
+      "biyejielun": "毕业",
+	  "xueweidengji": "硕士学位",
+	  "jobSituation": "已就业"
+    },
+    {
+      "studentID": 2413040403,
+      "studentName": "张宇三",
+      "major": "测控",
+      "graduationDate": 2022.06,
+      "biyejielun": "毕业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+    },
+    {
+      "studentID": 2413040404,
+      "studentName": "张宇四",
+      "major": "电器及自动化",
+      "graduationDate": 2025.06,
+      "biyejielun": "毕业",
+	  "xueweidengji": "博士学位",
+	  "jobSituation": "已就业"
+    },
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "graduationDate": 2024.06,
+	  "biyejielun": "结业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "graduationDate": 2023.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "硕士学位",
+	  "jobSituation": "已就业"
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "graduationDate": 2022.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "graduationDate": 2025.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "博士学位",
+	  "jobSituation": "已就业"
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "graduationDate": 2024.06,
+	  "biyejielun": "结业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "graduationDate": 2023.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "硕士学位",
+	  "jobSituation": "已就业"
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "graduationDate": 2022.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "graduationDate": 2025.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "博士学位",
+	  "jobSituation": "已就业"
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "graduationDate": 2024.06,
+	  "biyejielun": "结业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "graduationDate": 2023.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "硕士学位",
+	  "jobSituation": "已就业"
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "graduationDate": 2022.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "学士学位",
+	  "jobSituation": "未就业"
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "graduationDate": 2025.06,
+	  "biyejielun": "毕业",
+	  "xueweidengji": "博士学位",
+	  "jobSituation": "已就业"
+	}
+	
+  ]
+}	

@@ -1,0 +1,135 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "studentID": 2413040401,
+      "studentName": "张宇一",
+	  "major": "软件工程",
+      "class": 24130404,
+	  "jidian": 3.5,
+	  "paiming": 240
+    },
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "class": 24130404,
+	  "jidian": 3.7,
+	  "paiming": 190
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "class": 24130404,
+	  "jidian": 3.8,
+	  "paiming": 150
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "class": 24130404,
+	  "jidian": 4.0,
+	  "paiming": 13
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "jidian": 3.5,
+	  "paiming": 240
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "class": 24130404,
+	  "jidian": 3.7,
+	  "paiming": 190
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "class": 24130404,
+	  "jidian": 3.8,
+	  "paiming": 150
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "class": 24130404,
+	  "jidian": 4.0,
+	  "paiming": 13
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "jidian": 3.5,
+	  "paiming": 240
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "class": 24130404,
+	  "jidian": 3.7,
+	  "paiming": 190
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "class": 24130404,
+	  "jidian": 3.8,
+	  "paiming": 150
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "class": 24130404,
+	  "jidian": 4.0,
+	  "paiming": 13
+	},
+	{
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "jidian": 3.5,
+	  "paiming": 240
+	},
+	{
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "major": "武器制导",
+	  "class": 24130404,
+	  "jidian": 3.7,
+	  "paiming": 190
+	},
+	{
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "major": "测控",
+	  "class": 24130404,
+	  "jidian": 3.8,
+	  "paiming": 150
+	},
+	{
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "major": "电器及自动化",
+	  "class": 24130404,
+	  "jidian": 4.0,
+	  "paiming": 13
+	}
+  ]
+}

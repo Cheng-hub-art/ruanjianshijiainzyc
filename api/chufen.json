@@ -1,0 +1,135 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+	{
+	  "studentName": "张宇一",
+	  "studentID": 2413040401,
+	  "reason": "夜不归宿",
+	  "dengji": "记过",
+	  "starttime":2025.02,
+	  "endtime": 2025.06
+	},
+	{
+	  "studentName": "张宇二",
+	  "studentID": 2413040402,
+	  "reason": "院级查课",
+	  "dengji": "警告",
+	  "starttime":2025.03,
+	  "endtime": 2025.07
+	},
+	{
+	  "studentName": "张宇三",
+	  "studentID": 2413040403,
+	  "reason": "校级查课",
+	  "dengji": "严重警告",
+	  "starttime":2024.09,
+	  "endtime": 2025.01
+	},
+	{
+	  "studentName": "张宇四",
+	  "studentID": 2413040404,
+	  "reason": "考试作弊",
+	  "dengji": "重大违纪",
+	  "starttime":2024.02,
+	  "endtime": 2025.02
+	},
+	{
+	  "studentName": "张宇一",
+	  "studentID": 2413040401,
+	  "reason": "夜不归宿",
+	  "dengji": "记过",
+	  "starttime":2025.02,
+	  "endtime": 2025.06
+	},
+	{
+	  "studentName": "张宇二",
+	  "studentID": 2413040402,
+	  "reason": "院级查课",
+	  "dengji": "警告",
+	  "starttime":2025.03,
+	  "endtime": 2025.07
+	},
+	{
+	  "studentName": "张宇三",
+	  "studentID": 2413040403,
+	  "reason": "校级查课",
+	  "dengji": "严重警告",
+      "starttime":2024.09,
+	  "endtime": 2025.01
+	},
+	{
+	  "studentName": "张宇四",
+	  "studentID": 2413040404,
+	  "reason": "考试作弊",
+	  "dengji": "重大违纪",
+	  "starttime":2024.02,
+	  "endtime": 2025.02
+	},
+	{
+	  "studentName": "张宇一",
+	  "studentID": 2413040401,
+	  "reason": "夜不归宿",
+	  "dengji": "记过",
+	  "starttime":2025.02,
+	  "endtime": 2025.06
+	},
+	{
+	  "studentName": "张宇二",
+	  "studentID": 2413040402,
+	  "reason": "院级查课",
+	  "dengji": "警告",
+	  "starttime":2025.03,
+	  "endtime": 2025.07
+	},
+	{
+	  "studentName": "张宇三",
+	  "studentID": 2413040403,
+	  "reason": "校级查课",
+	  "dengji": "严重警告",
+      "starttime":2024.09,
+	  "endtime": 2025.01
+	},
+	{
+	  "studentName": "张宇四",
+	  "studentID": 2413040404,
+	  "reason": "考试作弊",
+	  "dengji": "重大违纪",
+	  "starttime":2024.02,
+	  "endtime": 2025.02
+	},
+	{
+	  "studentName": "张宇一",
+	  "studentID": 2413040401,
+	  "reason": "夜不归宿",
+	  "dengji": "记过",
+	  "starttime":2025.02,
+	  "endtime": 2025.06
+	},
+	{
+	  "studentName": "张宇二",
+	  "studentID": 2413040402,
+	  "reason": "院级查课",
+	  "dengji": "警告",
+	  "starttime":2025.03,
+	  "endtime": 2025.07
+	},
+	{
+	  "studentName": "张宇三",
+	  "studentID": 2413040403,
+	  "reason": "校级查课",
+	  "dengji": "严重警告",
+      "starttime":2024.09,
+	  "endtime": 2025.01
+	},
+	{
+	  "studentName": "张宇四",
+	  "studentID": 2413040404,
+	  "reason": "考试作弊",
+	  "dengji": "重大违纪",
+	  "starttime":2024.02,
+	  "endtime": 2025.02
+	}
+  ]
+}

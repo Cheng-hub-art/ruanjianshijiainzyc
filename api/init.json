@@ -1,0 +1,196 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "page/home.html"
+  },
+  "logoInfo": {
+    "title": "USFM",
+    "image": "images/logo_b.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "常规管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "首页",
+          "href": "page/home.html",
+          "icon": "fa fa-home",
+          "target": "_self"
+        },
+        {
+          "title": "学生信息管理",
+          "href": "",
+          "icon": "fa fa-group",
+          "target": "_self",
+          "child": [
+          {
+            "title": "添加学生",
+            "href": "students information/studentAdd.html",
+            "icon": "fa fa-user-plus",
+            "target": "_self"
+          }, {
+            "title": "学生信息修改",
+            "href": "students information/studentList.html",
+            "icon": "fa fa-ticket",
+            "target": "_self"
+          },
+		  {
+		    "title": "学生信息查询",
+		    "href": "students information/studentSearch.html",
+		    "icon": "fa fa-search",
+		    "target": "_self"
+		  }
+        ]
+        },
+        {
+          "title": "学籍信息管理",
+          "href": "",
+          "icon": "fa fa-institution",
+          "target": "_self",
+          "child": [
+			  {
+			    "title": "学籍录入",
+			    "href": "Studentstatusinfo/studentstatusAdd.html",
+			    "icon": "fa fa-server",
+			    "target": "_self"
+			  },
+			  {
+			    "title": "学籍修改与删除",
+			    "href": "Studentstatusinfo/studentstatusList.html",
+			    "icon": "fa fa-edit",
+			    "target": "_self"
+			  },
+			  {
+			    "title": "学籍信息查询",
+			    "href": "Studentstatusinfo/studentstatusSearch.html",
+			    "icon": "fa fa-eye",
+			    "target": "_self"
+			  }
+            
+          ]
+        },
+        {
+          "title": "课程与成绩管理",
+          "href": "",
+          "icon": "fa fa-book",
+          "target": "_self",
+          "child": [
+            {
+              "title": "课表查询",
+              "href": "Courses and Grades/coursesearch.html",
+              "icon": "fa fa-dashboard",
+              "target": "_self"
+            }, {
+              "title": "录入成绩",
+              "href": "Courses and Grades/gradeAdd.html",
+              "icon": "fa fa-search-plus",
+              "target": "_self"
+            }, {
+              "title": "成绩修改与删除",
+              "href": "Courses and Grades/gradeList.html",
+              "icon": "fa fa-tree",
+              "target": "_self"
+            }, {
+              "title": "成绩查询",
+              "href": "Courses and Grades/gradesearch.html",
+              "icon": "fa fa-bar-chart",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "奖惩信息管理",
+          "href": "",
+          "icon": "fa fa-trophy",
+          "target": "_self",
+          "child": [
+            {
+              "title": "奖惩录入",
+              "href": "Reward and punishment/jcAdd.html",
+              "icon": "fa fa-thumb-tack",
+              "target": "_self"
+            }, {
+              "title": "奖励修改与删除",
+              "href": "Reward and punishment/jiangliList.html",
+              "icon": "fa fa-thumbs-up",
+              "target": "_self"
+            },{
+              "title": "处分修改与删除",
+              "href": "Reward and punishment/chufenList.html",
+              "icon": "fa fa-thumbs-down",
+              "target": "_self"
+            },{
+              "title": "奖惩查询",
+              "href": "Reward and punishment/jiangchengSearch.html",
+              "icon": "fa fa-plus-square-o",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "异动信息管理",
+          "href": "",
+          "icon": "fa fa-plug",
+          "target": "_self",
+          "child": [
+            {
+              "title": "异动录入",
+              "href": "abnormalMove/abmoveAdd.html",
+              "icon": "fa fa-pencil-square-o",
+              "target": "_self"
+            }, {
+              "title": "异动编辑与查询",
+              "href": "abnormalMove/abmoveList.html",
+              "icon": "fa fa-meh-o",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "毕业信息管理",
+          "href": "",
+          "icon": "fa fa-mortar-board",
+          "target": "_self",
+          "child": [
+            {
+              "title": "毕业信息录入",
+              "href": "Graduation information/graduationAdd.html",
+              "icon": "fa fa-key",
+              "target": "_self"
+            }, {
+              "title": "毕业修改与删除",
+              "href": "Graduation information/graduationList.html",
+              "icon": "fa fa-laptop",
+              "target": "_self"
+            },
+			{
+			  "title": "毕业信息查询",
+			  "href": "Graduation information/graduationSearch.html",
+			  "icon": "fa fa-globe",
+			  "target": "_self"
+			}
+			
+          ]
+        },
+		{
+		  "title": "档案附件管理",
+		  "href": "",
+		  "icon": "fa fa-file",
+		  "target": "_self",
+		  "child": [
+		    {
+		      "title": "附件上传",
+		      "href": "File attachment/fileAdd.html",
+		      "icon": "fa fa-file-text",
+		      "target": "_self"
+		    }
+		  ]
+		}
+      ]
+    }
+  ]
+}

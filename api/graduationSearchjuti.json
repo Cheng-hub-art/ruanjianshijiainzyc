@@ -1,0 +1,135 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "jobSituation": "已就业",
+      "jobdidian": "北京",
+      "jobdanwei": "字节跳动",
+      "jobDate": 2024.12,
+      "zhiye": "前端开发工程师",
+	  "salary": "50w"
+    },
+    {
+      "jobSituation": "已就业",
+      "jobdidian": "上海",
+      "jobdanwei": "腾讯",
+      "jobDate": 2025.05,
+      "zhiye": "全栈开发工程师",
+	  "salary": "48w"
+    },
+    {
+      "jobSituation": "已就业",
+      "jobdidian": "深圳",
+      "jobdanwei": "华为",
+      "jobDate": 2023.09,
+      "zhiye": "数据分析师",
+	  "salary": "52w"
+    },
+    {
+      "jobSituation": "已就业",
+      "jobdidian": "杭州",
+      "jobdanwei": "阿里巴巴",
+      "jobDate": 2025.08,
+      "zhiye": "网络安全工程师",
+	  "salary": "33w"
+    },
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "北京",
+	  "jobdanwei": "字节跳动",
+	  "jobDate": 2024.12,
+	  "zhiye": "前端开发工程师",
+	  "salary": "50w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "上海",
+	  "jobdanwei": "腾讯",
+	  "jobDate": 2025.05,
+	  "zhiye": "全栈开发工程师",
+	  "salary": "48w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "深圳",
+	  "jobdanwei": "华为",
+	  "jobDate": 2023.09,
+	  "zhiye": "数据分析师",
+	  "salary": "52w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "杭州",
+	  "jobdanwei": "阿里巴巴",
+	  "jobDate": 2025.08,
+	  "zhiye": "网络安全工程师",
+	  "salary": "33w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "北京",
+	  "jobdanwei": "字节跳动",
+	  "jobDate": 2024.12,
+	  "zhiye": "前端开发工程师",
+	  "salary": "50w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "上海",
+	  "jobdanwei": "腾讯",
+	  "jobDate": 2025.05,
+	  "zhiye": "全栈开发工程师",
+	  "salary": "48w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "深圳",
+	  "jobdanwei": "华为",
+	  "jobDate": 2023.09,
+	  "zhiye": "数据分析师",
+	  "salary": "52w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "杭州",
+	  "jobdanwei": "阿里巴巴",
+	  "jobDate": 2025.08,
+	  "zhiye": "网络安全工程师",
+	  "salary": "33w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "北京",
+	  "jobdanwei": "字节跳动",
+	  "jobDate": 2024.12,
+	  "zhiye": "前端开发工程师",
+	  "salary": "50w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "上海",
+	  "jobdanwei": "腾讯",
+	  "jobDate": 2025.05,
+	  "zhiye": "全栈开发工程师",
+	  "salary": "48w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "深圳",
+	  "jobdanwei": "华为",
+	  "jobDate": 2023.09,
+	  "zhiye": "数据分析师",
+	  "salary": "52w"
+	},
+	{
+	  "jobSituation": "已就业",
+	  "jobdidian": "杭州",
+	  "jobdanwei": "阿里巴巴",
+	  "jobDate": 2025.08,
+	  "zhiye": "网络安全工程师",
+	  "salary": "33w"
+	}
+  ]
+}	

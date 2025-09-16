@@ -1,0 +1,167 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+	{
+		"studentID": 2413040401,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "软件学院",
+	  "usedmajor": "软件工程",
+	  "targetyuanxi":"机械工程学院",
+	  "targetmajor": "土木工程",
+	  "status": "待院长审核",
+	  "time": 2024.12
+	},
+	{
+		"studentID": 2413040402,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "机电工程学院",
+	  "usedmajor": "机电工程",
+	  "targetyuanxi":"仪器与电子学院",
+	  "targetmajor": "网络工程",
+	  "status": "通过",
+	  "time": 2023.12
+	},
+	{
+		"studentID": 2413040403,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "经济与管理学院",
+	  "usedmajor": "经济学",
+	  "targetyuanxi":"经济与管理学院",
+	  "targetmajor": "管理学",
+	  "status": "待书记审核",
+	  "time": 2024.09
+	},
+	{
+		"studentID": 2413040404,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "电器与控制工程学院",
+	  "usedmajor": "电器及其自动化",
+	  "targetyuanxi":"机电工程学院",
+	  "targetmajor": "机电工程",
+	  "status": "通过",
+	  "time": 2025.03
+	},
+	{
+		"studentID": 2413040401,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "软件学院",
+	  "usedmajor": "软件工程",
+	  "targetyuanxi":"机械工程学院",
+	  "targetmajor": "土木工程",
+	  "status": "待院长审核",
+	  "time": 2024.12
+	},
+	{
+		"studentID": 2413040402,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "机电工程学院",
+	  "usedmajor": "机电工程",
+	  "targetyuanxi":"仪器与电子学院",
+	  "targetmajor": "网络工程",
+	  "status": "通过",
+	  "time": 2023.12
+	},
+	{
+		"studentID": 2413040403,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "经济与管理学院",
+	  "usedmajor": "经济学",
+	  "targetyuanxi":"经济与管理学院",
+	  "targetmajor": "管理学",
+	  "status": "待书记审核",
+	  "time": 2024.09
+	},
+	{
+		"studentID": 2413040404,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "电器与控制工程学院",
+	  "usedmajor": "电器及其自动化",
+	  "targetyuanxi":"机电工程学院",
+	  "targetmajor": "机电工程",
+	  "status": "通过",
+	  "time": 2025.03
+	},
+	{
+		"studentID": 2413040401,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "软件学院",
+	  "usedmajor": "软件工程",
+	  "targetyuanxi":"机械工程学院",
+	  "targetmajor": "土木工程",
+	  "status": "待院长审核",
+	  "time": 2024.12
+	},
+	{
+		"studentID": 2413040402,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "机电工程学院",
+	  "usedmajor": "机电工程",
+	  "targetyuanxi":"仪器与电子学院",
+	  "targetmajor": "网络工程",
+	  "status": "通过",
+	  "time": 2023.12
+	},
+	{
+		"studentID": 2413040403,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "经济与管理学院",
+	  "usedmajor": "经济学",
+	  "targetyuanxi":"经济与管理学院",
+	  "targetmajor": "管理学",
+	  "status": "待书记审核",
+	  "time": 2024.09
+	},
+	{
+		"studentID": 2413040404,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "电器与控制工程学院",
+	  "usedmajor": "电器及其自动化",
+	  "targetyuanxi":"机电工程学院",
+	  "targetmajor": "机电工程",
+	  "status": "通过",
+	  "time": 2025.03
+	},
+	{
+		"studentID": 2413040401,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "软件学院",
+	  "usedmajor": "软件工程",
+	  "targetyuanxi":"机械工程学院",
+	  "targetmajor": "土木工程",
+	  "status": "待院长审核",
+	  "time": 2024.12
+	},
+	{
+		"studentID": 2413040402,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "机电工程学院",
+	  "usedmajor": "机电工程",
+	  "targetyuanxi":"仪器与电子学院",
+	  "targetmajor": "网络工程",
+	  "status": "通过",
+	  "time": 2023.12
+	},
+	{
+		"studentID": 2413040403,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "经济与管理学院",
+	  "usedmajor": "经济学",
+	  "targetyuanxi":"经济与管理学院",
+	  "targetmajor": "管理学",
+	  "status": "待书记审核",
+	  "time": 2024.09
+	},
+	{
+		"studentID": 2413040404,
+	  "abmoveType": "转专业",
+	  "usedyuanxi": "电器与控制工程学院",
+	  "usedmajor": "电器及其自动化",
+	  "targetyuanxi":"机电工程学院",
+	  "targetmajor": "机电工程",
+	  "status": "通过",
+	  "time": 2025.03
+	}
+  ]
+}

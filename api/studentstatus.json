@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+	  "status": "正常",
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "yuanxi": "软件学院",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "yuanxi": "机械工程学院",
+	  "major": "武器制导",
+	  "class": 24130401,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "yuanxi": "电器与控制工程学院",
+	  "major": "电器及自动化",
+	  "class": 24130425,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "休学",
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "yuanxi": "机电工程学院",
+	  "major": "机电工程",
+	  "class": 24050302,
+	  "admissionyear":"2023-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "yuanxi": "软件学院",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "yuanxi": "机械工程学院",
+	  "major": "武器制导",
+	  "class": 24130401,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "yuanxi": "电器与控制工程学院",
+	  "major": "电器及自动化",
+	  "class": 24130425,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "休学",
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "yuanxi": "机电工程学院",
+	  "major": "机电工程",
+	  "class": 24050302,
+	  "admissionyear":"2023-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040402,
+	  "studentName": "张宇二",
+	  "yuanxi": "软件学院",
+	  "major": "软件工程",
+	  "class": 24130404,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040401,
+	  "studentName": "张宇一",
+	  "yuanxi": "机械工程学院",
+	  "major": "武器制导",
+	  "class": 24130401,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "正常",
+	  "studentID": 2413040403,
+	  "studentName": "张宇三",
+	  "yuanxi": "电器与控制工程学院",
+	  "major": "电器及自动化",
+	  "class": 24130425,
+	  "admissionyear":"2024-09-01"
+	},
+	{
+	  "status": "休学",
+	  "studentID": 2413040404,
+	  "studentName": "张宇四",
+	  "yuanxi": "机电工程学院",
+	  "major": "机电工程",
+	  "class": 24050302,
+	  "admissionyear":"2023-09-01"
+	}
+  ]
+}

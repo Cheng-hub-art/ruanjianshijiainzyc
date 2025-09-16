@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+	{
+	  "reason": "夜不归宿",
+	  "dengji": "记过",
+	  "starttime":2025.02,
+	  "endtime": 2025.06
+	},
+	{
+	  "reason": "院级查课",
+	  "dengji": "警告",
+	  "starttime":2025.03,
+	  "endtime": 2025.07
+	},
+	{
+	  "reason": "校级查课",
+	  "dengji": "严重警告",
+	  "starttime":2024.09,
+	  "endtime": 2025.01
+	},
+	{
+	  "reason": "考试作弊",
+	  "dengji": "重大违纪",
+	  "starttime":2024.02,
+	  "endtime": 2025.02
+	}
+  ]
+}
