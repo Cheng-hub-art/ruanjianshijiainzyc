@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../lib/layui-v2.6.3/css/layui.css" media="all">
+    <link rel="stylesheet" href="../css/public.css" media="all">
+</head>
+<body>
+<div class="layuimini-container">
+    <div class="layuimini-main">
+
+        <fieldset class="table-search-fieldset">
+            <legend>搜索信息</legend>
+            <div style="margin: 10px 10px 10px 10px">
+                <form class="layui-form layui-form-pane" action="">
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label">学号</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="studentID" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+						<div class="layui-inline">
+						    <label class="layui-form-label">姓名</label>
+						    <div class="layui-input-inline">
+						        <input type="text" name="studentName" autocomplete="off" class="layui-input">
+						    </div>
+						</div>
+						<div class="layui-inline">
+						    <label class="layui-form-label">手机号</label>
+						    <div class="layui-input-inline">
+						        <input type="text" name="phonenumber" autocomplete="off" class="layui-input">
+						    </div>
+						</div>
+						<div class="layui-inline">
+						    <label class="layui-form-label">班级</label>
+						    <div class="layui-input-inline">
+						        <input type="text" name="class" autocomplete="off" class="layui-input">
+						    </div>
+						</div>
+                        
+                        <div class="layui-inline">
+                            <button type="submit" class="layui-btn layui-btn-primary"  lay-submit lay-filter="data-search-btn"><i class="layui-icon"></i> 搜 索</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </fieldset>
+
+        <table class="layui-hide" id="currentTableId" lay-filter="currentTableFilter"></table>
+
+        <script type="text/html" id="currentTableBar">
+            <a class="layui-btn layui-btn-xs layui-btn-success"lay-event="rewardPage">查询奖励</a>
+            <a class="layui-btn layui-btn-xs layui-btn-danger"lay-event="punishPage">查询处分  </a>
+        </script>
+
+    </div>
+</div>
+<script src="../lib/layui-v2.6.3/layui.js" charset="utf-8"></script>
+<script>
+    layui.use(['form', 'table'], function () {
+        var $ = layui.jquery,          
+		    form = layui.form, 
+		    table = layui.table;
+
+        table.render({
+            elem: '#currentTableId',
+            url: '../api/student.json',
+            toolbar: '#toolbarDemo',
+            defaultToolbar: ['filter', 'exports', 'print', {
+                title: '提示',
+                layEvent: 'LAYTABLE_TIPS',
+                icon: 'layui-icon-tips'
+            }],
+            cols: [[
+                {type: "checkbox", width: 50},
+                {field: 'studentID', width: 120, title: '学号', sort: true},
+                {field: 'studentName', width: 120, title: '姓名'},
+                {field: 'class', width: 120, title: '班级', sort: true},
+                {field: 'major',width: 120, title: '专业'},
+				{field: 'phoneNumber', width: 140, title: '联系方式'},
+                {title: '操作', minWidth: 150, toolbar: '#currentTableBar', align: "center"}
+            ]],
+            limits: [5,10, 15,20],
+            limit: 10,
+            page: true,
+            skin: 'line'
+        });
+
+        // 监听搜索操作
+        form.on('submit(data-search-btn)', function (data) {
+            var result = JSON.stringify(data.field);
+            layer.alert(result, {
+                title: '最终的搜索信息'
+            });
+
+            //执行搜索重载
+            table.reload('currentTableId', {
+                page: {
+                    curr: 1
+                }
+                , where: {
+                    searchParams: result
+                }
+            }, 'data');
+
+            return false;
+        });
+        table.on('checkbox(currentTableFilter)', function (obj) {
+            console.log(obj)
+        });
+		
+		table.on('tool(currentTableFilter)', function (obj) {
+		    var data = obj.data;
+		    if (obj.event === 'rewardPage') {  // 添加page事件处理
+			                // 页面层
+			                layer.open({
+			                    type: 1,
+			                    area: ['470px', '240px'],
+			                    content: `
+		    <div style="padding: 15px;">
+		         <table class="layui-table" lay-size="sm" id="rewardTable">
+		            
+		    </div>
+		`,		
+		success: function(layero) {
+		            // 渲染成绩表格
+		            table.render({
+		                elem: '#rewardTable',
+		                url: '../api/jiangli juti.json',
+		    cols: [[
+                {field: 'rewardName', width: 120, title: '获奖名称'},
+                {field: 'dengji',width: 90, title: '等级'},
+				{field: 'danwei', width: 140, title: '颁发单位'},
+				{field: 'time', width: 100, title: '时间'}
+		    ]],
+		        page: false,
+		        skin: 'line'
+		            });
+		        }
+			                });
+			            }
+			else if (obj.event === 'punishPage') {  // 添加page事件处理
+						                // 页面层
+						                layer.open({
+						                    type: 1,
+						                    area: ['470px', '240px'],
+						                    content: `
+					    <div style="padding: 15px;">
+					         <table class="layui-table" lay-size="sm" id="punishTable">
+					            
+					    </div>
+					`,		
+					success: function(layero) {
+					            // 渲染成绩表格
+					            table.render({
+					                elem: '#punishTable',
+					                url: '../api/chufen juti.json',
+					    cols: [[
+							{field: 'reason', width: 120, title: '事由'},
+							{field: 'dengji',width: 90, title: '处分等级'},
+							{field: 'starttime', width: 140, title: '生效时间'},
+							{field: 'endtime', width: 100, title: '撤销时间'}
+					    ]],
+					        page: false,
+					        skin: 'line'
+					            });
+					        }
+						                });
+						            }
+		});
+
+    });
+</script>
+
+</body>
+</html>
